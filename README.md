@@ -195,6 +195,10 @@ I add a new command `aws iam get-user --user-name $user` to fetch the profile of
 >IAM User Group
 ![](/img/user-group.png)
 
+## Push to Github
+
+![](/img/push.png)
+
 ## Best Practices
 - Usernames must be unique to individual employees
 - Employees should be only be given the permissions they need for their job
